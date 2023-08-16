@@ -7,8 +7,8 @@ Mount your drive to the notebook by running the cell below
 
 
 ```python
-# from google.colab import drive
-# drive.mount('/content/drive')
+from google.colab import drive
+drive.mount('/content/drive')
 ```
 
 

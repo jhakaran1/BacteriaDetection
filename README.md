@@ -49,6 +49,6 @@ Clone the yolov5 repository and install requirements.txt in a Python>=3.8.0 envi
 
 
 
-Move detect_new.py from "YoloV5L" directory to "yolov5" folder.
+Move detect_new.py from "YoloV5L" directory to the "yolov5" folder in the same directory.
 
 Now you are ready to use the model for detecting cells in microfluidic channels. In the drive go to Detect.ipynb and follow the instructions to run the model on your images.
